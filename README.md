@@ -1,3 +1,3 @@
-# Amazon_prime_powerBI
+# Amazon Prime Video Content Analysis 📊🎬
 
-This is a power bi dashboard report of Amazon Prime Movies and TV Shows.  
+#📌 Project Overview
