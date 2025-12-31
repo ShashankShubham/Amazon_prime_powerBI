@@ -155,6 +155,16 @@ The platform has a strong global presence with diverse regional content.
 
 Drama and family-friendly ratings dominate the catalog, indicating broad audience targeting.
 
+
+Business Value
+This analysis helps content, marketing, and strategy teams understand genre demand, regional focus, and long-term investment trends, enabling data-driven entertainment decisions.
+What I Learned
+This project strengthened my ability to clean data, build meaningful dashboards, and translate visual insights into clear business narratives.
+Future Improvements
+Future enhancements could include sentiment analysis, comparison with other OTT platforms, integration of viewer ratings, and automated data refresh.
+About Me
+I am an aspiring Data Analyst with hands-on experience in SQL, Excel, Power BI, and Python. I enjoy transforming raw data into insights that support decision-making.
+
 🚀 Conclusion
 
 This project highlights how data visualization can uncover meaningful patterns in entertainment platforms.
@@ -168,22 +178,3 @@ Create business-ready dashboards
 
 Communicate insights beyond just numbers
 
-📁 Project Files
-
-Power BI Dashboard (.pbix)
-
-Dataset (.csv)
-
-Dashboard Screenshots
-
-README Documentation
-
-📬 Feel free to explore the dashboard and reach out for feedback or collaboration!
-
-If you want, I can also:
-
-Rewrite this for a resume-friendly version
-
-Add a business problem statement
-
-Help you write a LinkedIn project post based on this 📈
